@@ -21,3 +21,6 @@ To run the DailyBuzz app locally, follow these steps:
 2. Open the project in Android Studio.
 3. Build and run the app on an Android device or emulator.
 
+![01](https://github.com/Praveenahd4/Daily-Buzz-News-App/assets/118451730/6454af33-0128-4c94-bf24-249fbe6e3f46)
+
+![02](https://github.com/Praveenahd4/Daily-Buzz-News-App/assets/118451730/6dc04009-5259-44ac-b431-777c00110afb)
